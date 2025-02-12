@@ -7,4 +7,4 @@ The answers to all questions in Lab2 are in Labs/Lab1/Lab2.ipynb\
 Task A2.1: Temperature Logging and Collection needed a data csv submitted Labs/Lab2/temperature.csv\
 Task A2.2: Motion Logging - Acc/Gyr  and Collection needed a data csv submitted Labs/Lab2/IMU2.csv\
 Task A2.2: Frozen! needed a data csv submitted Labs/Lab2/new_IOT_temp.csv\
-Task A2.4: Gone with the Wind! Labs/Lab2/Climate2016_with_split.csv\
+Task A2.4: Gone with the Wind! Labs/Lab2/Climate2016_with_split.csv
