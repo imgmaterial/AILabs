@@ -9,4 +9,6 @@ Task A2.2: Motion Logging - Acc/Gyr  and Collection needed a data csv submitted 
 Task A2.2: Frozen! needed a data csv submitted Labs/Lab2/new_IOT_temp.csv\
 Task A2.4: Gone with the Wind! Labs/Lab2/Climate2016_with_split.csv
 ## Lab 3
-The answers to questions A3.1 A3.2 and A3.4 from Lab3 are in Labs/Lab3/Lab3.ipynb\
+The answers to questions A3.1 A3.2 and A3.4 from Lab3 are in Labs/Lab3/Lab3.ipynb
+## Lab 4
+The answers to both parts of Lab 4 are int Labs/Lab4/Lab4.ipynb
